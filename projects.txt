@@ -1,0 +1,13 @@
+These are the 10 mini projects, I had done as a part of python programming:-)
+
+1.	Basic calculator
+2.	Dictionary
+3.	Quiz Game
+4.	Interest payment calculator
+5.	Guess the Number (computer) 
+6.	Guess the Number (user)
+7.	Rock, Paper, Scissors
+8.	QR Generator 
+9.	Dice Rolling Simulator
+10.	Hangman
+	
